@@ -1,0 +1,3 @@
+[submodule "kata-rust-queue"]
+	path = kata-rust-queue
+	url = git@github.com:zzeroo/kata-rust-queue.git
